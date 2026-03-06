@@ -1,0 +1,13 @@
+[Bb]in/
+[Oo]bj/
+publish/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+.vscode/
+appsettings.json
+*.user
+*.suo
+db-initializer/
+*.csproj.user
+*.sql.user
